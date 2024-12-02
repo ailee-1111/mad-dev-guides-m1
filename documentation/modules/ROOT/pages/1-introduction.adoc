@@ -18,7 +18,7 @@ This module will walk you through 2 of the phases (_Assess_, _Rationalize_) as f
 Migration Toolkit for Applications (MTA) accelerates large-scale application modernization efforts across hybrid cloud environments on Red Hat OpenShift. This solution provides insight throughout the adoption process, at both the portfolio and application levels: inventory, assess, analyze, and manage applications for faster migration to OpenShift via the user interface.
 ====
 
-== 1.1. Understand the Globex Retail System Architecture
+== 1.1. test-AIDEN
 
 Globex is a fictional company we will use for this workshop. The Globex system in your workshop environment consists of microservices applications that are deployed across multiple platforms such as virtual machines and a container platform as depicted below.
 
